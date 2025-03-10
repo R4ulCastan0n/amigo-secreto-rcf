@@ -1,29 +1,36 @@
-<h1 align="center"> El amigo secreto</h1>
-
-![Amigo Secreto](https://imgur.com/Jx7gzOl)
+[<h1 align="center"> El amigo secreto</h1>](#Título-e-imagen-de-portada)
+![Jx7gzOl - Imgur](https://github.com/user-attachments/assets/2640e6e4-f764-4e20-9363-70f10b05c4c6)
 
 Índice
 
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+[Índice](#índice)
 
-*[Insignias](#insignias)
+[Descripción del proyecto:](#Descripción-del-proyecto)
 
-*[Índice](#índice)
+El propósito de este proyecto es obtener el nombre de una persona de manera aleatoria a partir de un listado de nombres creado por las personas usuarias
 
-*[Descripción del proyecto](#descripción-del-proyecto)
 
-*[Estado del proyecto](#Estado-del-proyecto)
+[Estado del proyecto](#Estado-del-proyecto)
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+Terminado
 
-*[Acceso al proyecto](#acceso-proyecto)
+[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
+## :hammer:Funcionalidades del proyecto
+Este proyecto cuenta con tres funcionalidades que son:
 
-*[Personas Contribuyentes](#personas-contribuyentes)
+- `Funcionalidad 1`: Registro de nombre de amigo
+- `Funcionalidad 2`: Elaboración de listado de amigos
+- `Funcionalidad 3`: Selección aleatorio de nombre de amigo secreto
 
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+[Acceso al proyecto](#acceso-proyecto)
 
-* [Licencia](#licencia)
+[Tecnologías utilizadas](#tecnologías-utilizadas)
 
-*[Conclusión](#conclusión)
+[Personas Contribuyentes](#personas-contribuyentes)
+
+[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+
+[Licencia](#licencia)
+
+[Conclusión](#conclusión)
