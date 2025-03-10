@@ -25,12 +25,16 @@ Este proyecto cuenta con tres funcionalidades que son:
 
 [Acceso al proyecto](#acceso-proyecto)
 
+👩‍💻👨‍💻 Puedes consultar el proyecto en: https://github.com/R4ulCastan0n/amigo-secreto-rcf.git
+
 [Tecnologías utilizadas](#tecnologías-utilizadas)
 
-[Personas Contribuyentes](#personas-contribuyentes)
+El proyecto está conformado con HTML, CSS y Javascript
 
 [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-[Licencia](#licencia)
+Raúl Castañón Flores
 
 [Conclusión](#conclusión)
+
+Confiamos en que esta herramienta te permita descubrir quién es el amigo secreto y ¡obtener mucha diversión!
